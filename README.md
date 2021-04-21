@@ -23,6 +23,6 @@ This GitHub repository includes all resources for the event on Crowdcast: https:
 | Welcome! | 3:00 pm  |
 | Call for Code Challenge | 3:05 pm  |
 | Agri Intelligence: Building a Technology Ecosystem to Revolutionize the Global Agricultural Industry by Stuart Oda| 3:10 pm |
-| Q& A with Stuart Oda | 3:25 pm |
+| Q&A with Stuart Oda | 3:25 pm |
 | Technical Workshop: Zero Hunger starter Kit by Masa Abushamleh & Mofaq Althiyabi | 3:30 pm |
 | Closing Keynotes | 4:30 pm |
