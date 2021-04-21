@@ -3,6 +3,8 @@ This GitHub repository includes all resources for the event on Crowdcast: https:
 ## Prerequisites
 - Log in or Sign up for IBM Cloud at: https://ibm.biz/NodeRedZeroHunger
 - Install Node-RED on IBM Cloud: https://developer.ibm.com/tutorials/how-to-create-a-node-red-starter-application
+## Survey
+If you have attended our event, kindly fill out this survey to improve future events: https://ibm.biz/BdfzKt
 ## APIs you will be using in this workshop
 - Twilio: https://www.twilio.com/try-twilio?promo=lup4VV
 - Telstra: https://dev.telstra.com/tdev/user/register
@@ -16,7 +18,6 @@ This GitHub repository includes all resources for the event on Crowdcast: https:
   - node-red-node-twilio
   - ui_table
 
-
 ## Agenda
 | Title  | Time |
 | ------------- | ------------- |
@@ -26,3 +27,4 @@ This GitHub repository includes all resources for the event on Crowdcast: https:
 | Q&A with Stuart Oda | 3:25 pm |
 | Technical Workshop: Zero Hunger starter Kit by Masa Abushamleh & Mofaq Althiyabi | 3:30 pm |
 | Closing Keynotes | 4:30 pm |
+
