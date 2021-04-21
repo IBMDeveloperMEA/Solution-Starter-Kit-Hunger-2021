@@ -18,7 +18,7 @@ This GitHub repository includes all resources for the event on Crowdcast: https:
 
 
 ## Agenda
-| Title  | Second Header |
+| Title  | Time |
 | ------------- | ------------- |
 | Welcome! | 3:00 pm  |
 | Call for Code Challenge | 3:05 pm  |
